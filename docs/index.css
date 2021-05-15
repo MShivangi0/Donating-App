@@ -1,0 +1,35 @@
+body
+{
+  text-align: center;
+}
+.main h1{
+ padding-top: 8%;
+  font-size: 45px;
+  font-weight: 45px;
+    letter-spacing: 2px;
+    font-family: "Sofia", sans-serif ;
+     text-shadow: 2px 2px 5px red;
+    color: 	#fff8dc;
+
+
+}
+.main a{
+	padding-top:3%;
+	 border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  font-family: "Sofia", sans-serif ;
+   background: rgba(0,0,0,0.10);
+  border-radius: 5%;
+  transition-duration: 0.5s;
+  cursor: pointer;
+  border: 2px solid #008080;
+  text-shadow: 1px 2px 3px blue;
+}
+.main a:hover{
+ background-color: #800000;
+}
